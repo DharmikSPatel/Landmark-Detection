@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="adapterWidth">410dp</dimen>
+    <dimen name="adapterHeight">200dp</dimen>
+    <dimen name="imgWidth">300dp</dimen>
+    <dimen name="imgHeight">400dp</dimen>
+    <dimen name="crdHeight">550dp</dimen>
+    <dimen name="LLHeight">150dp</dimen>
+
+
+</resources>
